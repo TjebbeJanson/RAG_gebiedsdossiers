@@ -4,6 +4,5 @@ Scripts om gebiedsdossiers te parsen. Documenten worden op basis van de TOC gein
 
 # Scripts:
 extract.py : bevat code om de documenten te parsen en een tweede deel waarmee de uitvraag met het LLM (AI) model kan worden uitgevoerd. 
-parse_write.py : bevat alleen de code om documenten te parsen, deze kan worden gebruikt om een job te starten op het HPC.
-Precisie_Recall.py: berekent score voor de resultaten, zie memo 2025
+
 
